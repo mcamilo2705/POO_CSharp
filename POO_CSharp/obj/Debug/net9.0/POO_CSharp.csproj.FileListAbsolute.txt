@@ -1,0 +1,14 @@
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\bin\Debug\net9.0\POO_CSharp.exe
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\bin\Debug\net9.0\POO_CSharp.deps.json
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\bin\Debug\net9.0\POO_CSharp.runtimeconfig.json
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\bin\Debug\net9.0\POO_CSharp.dll
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\bin\Debug\net9.0\POO_CSharp.pdb
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.AssemblyInfoInputs.cache
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.AssemblyInfo.cs
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.dll
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\refint\POO_CSharp.dll
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.pdb
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.genruntimeconfig.cache
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\ref\POO_CSharp.dll
