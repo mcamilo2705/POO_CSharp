@@ -12,3 +12,4 @@ C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\refint\POO_CSha
 C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.pdb
 C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.genruntimeconfig.cache
 C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\ref\POO_CSharp.dll
+C:\Users\FIC\source\repos\POO_CSharp\POO_CSharp\obj\Debug\net9.0\POO_CSharp.sourcelink.json

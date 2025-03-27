@@ -5,6 +5,8 @@
 using Microsoft.VisualBasic;
 using POO_CSharp;
 
+
+
 List<string> listaNomes = new List<string>();
 
 //exemplo 2 - versao mais nova utilizada
@@ -84,3 +86,65 @@ livros.paginas = Console.ReadLine();
 
 livros.MostrarInformacoes();
 
+//Atribuir valores aos atributos de outra forma mais simples, depois dos atributos colocar virgula (,)
+
+Livro livros1 = new Livro()
+{
+    autor = "Robert",
+    titulo = "Clean code",
+    paginas = "341",
+
+    //autor = Console.ReadLine();
+    //titulo = Console.ReadLine();
+    //paginas = Console.ReadLine();
+};
+
+
+livros1.MostrarInformacoes();
+
+Aluno aluno1 = new Aluno();
+
+aluno1.nome = "Marcos";
+aluno1.idade = 18;
+aluno1.notaFinal = 7.5;
+
+aluno1.MostrarNota();
+
+Aluno aluno2 = new Aluno();
+
+aluno2.nome = "Beatriz";
+aluno2.idade = 25;
+aluno2.notaFinal = 9.5;
+
+aluno2.MostrarNota();
+
+Produtos produtos1 = new Produtos();
+
+produtos1.nome = "Caneta";
+produtos1.preco = 1.5;
+produtos1.quantidadeEmEstoque = 250;
+
+Console.WriteLine(produtos1.nome);
+Console.WriteLine(produtos1.preco);
+Console.WriteLine(produtos1.quantidadeEmEstoque);
+
+produtos1.nome = "Caneta";
+produtos1.preco = 1.8;
+produtos1.quantidadeEmEstoque = 250;
+Console.WriteLine(produtos1.nome);
+Console.WriteLine(produtos1.preco);
+Console.WriteLine(produtos1.quantidadeEmEstoque);
+
+Console.WriteLine(produtos1.CalcularTotal());
+
+
+//ENCAPSULAMENTO --> Esconde metodo e atributos. Exemplo um saldo de conta nao pode ser acessado/modificado diretamente, somente o metodo Sacar() ou Depositar() podem acessar/modificar o saldo
+// existem 4 palavras prossiveis para o encapsulamento
+
+//1-public --> classes, metodos ou atributos podem ser acessados por qualquer um ou qualquer lugar do codigo. Por padrao todas as classes sao publicas
+
+//2-private --> classes, metodos ou atributos, somente podera ser acessado pelo proprio.  vantagens esconder atributos, metodos ou classes, outra vantagem e definir regras para alteracao ou listagem.
+//REGRAS: todo atributo privado precisa comecar com sublinhado _.
+
+
+//3-protected e internal --> so pode ser acessado por ele mesmo igual o private e por sua classe pai
