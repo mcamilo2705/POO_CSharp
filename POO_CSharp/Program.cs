@@ -42,7 +42,7 @@ listaNomes.Remove("Joao");
 
 Carro carro = new Carro();
 //Para acessar informacoes do objeto, usar o ponto(.)
-carro.modelo = "Civic";
+//carro.modelo = "Civic";
 carro.anoFrabricacao = 2012;
 carro.marca = "Honda";
 
@@ -54,7 +54,7 @@ Console.WriteLine("");
 
 Carro carro2 = new Carro();
 //Para acessar informacoes do objeto, usar o ponto(.)
-carro2.modelo = "Volkswagem";
+//carro2.modelo = "Volkswagem";
 carro2.anoFrabricacao = 1998;
 carro2.marca = "Gol";
 
@@ -67,9 +67,10 @@ Console.WriteLine("");
 
 Carro carro3 = new Carro();
 //Para acessar informacoes do objeto, usar o ponto(.)
-carro3.modelo = "Uno";
+//carro3._modelo = "Uno";
 carro3.anoFrabricacao = 2015;
 carro3.marca = "Fiat";
+carro3.SetModelo("HONDA");
 
 carro3.Andar();
 carro3.MostrarInformacoes();
@@ -138,6 +139,30 @@ Console.WriteLine(produtos1.quantidadeEmEstoque);
 Console.WriteLine(produtos1.CalcularTotal());
 
 
+ContaBancaria mov = new ContaBancaria();
+Console.Write("Informe o deposito: ");
+double dep = double.Parse(Console.ReadLine());
+mov.Depositar(dep);
+Console.Write("Informe o valor de saque: ");
+double sac = double.Parse(Console.ReadLine());
+mov.Sacar(sac);
+Console.Write("Informe o valor de saque: ");
+sac = double.Parse(Console.ReadLine());
+mov.Sacar(sac);
+mov.VerSaldo();
+
+Funcionario funcionario = new Funcionario();
+funcionario.SetSalario(5000);
+funcionario.GetSalario();
+
+Retangulo ret = new Retangulo();
+ret.SetAltura(5.1);
+ret.SetLargura(5.1);
+ret.GetAltura();
+ret.GetLargura();
+ret.CalcularArea();
+
+
 //ENCAPSULAMENTO --> Esconde metodo e atributos. Exemplo um saldo de conta nao pode ser acessado/modificado diretamente, somente o metodo Sacar() ou Depositar() podem acessar/modificar o saldo
 // existem 4 palavras prossiveis para o encapsulamento
 
@@ -148,3 +173,6 @@ Console.WriteLine(produtos1.CalcularTotal());
 
 
 //3-protected e internal --> so pode ser acessado por ele mesmo igual o private e por sua classe pai
+
+
+//HERANCA --> 
