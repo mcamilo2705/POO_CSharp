@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace Heranca.Funcionarios
 {
-    class CarroCombustao : Carro
+    class Pessoa
     {
-        public string combustivel;
-
+        public string nome;
     }
 }

@@ -153,14 +153,15 @@ mov.VerSaldo();
 
 Funcionario funcionario = new Funcionario();
 funcionario.SetSalario(5000);
-funcionario.GetSalario();
+Console.WriteLine(funcionario.GetSalario()); 
 
 Retangulo ret = new Retangulo();
 ret.SetAltura(5.1);
 ret.SetLargura(5.1);
-ret.GetAltura();
-ret.GetLargura();
-ret.CalcularArea();
+Console.WriteLine(ret.GetAltura());
+Console.WriteLine(ret.GetLargura());
+Console.WriteLine(ret.CalcularArea());
+
 
 
 //ENCAPSULAMENTO --> Esconde metodo e atributos. Exemplo um saldo de conta nao pode ser acessado/modificado diretamente, somente o metodo Sacar() ou Depositar() podem acessar/modificar o saldo

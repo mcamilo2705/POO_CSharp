@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace Heranca.Funcionarios
 {
-    class PessoaFisica : Pessoa
+    class PessoaJuridica : Pessoa
     {
-        public string cpf;
+        public string cnpj;
     }
 }

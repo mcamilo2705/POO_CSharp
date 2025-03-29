@@ -4,16 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO_CSharp
+namespace Heranca.Funcionarios
 {
-    class ContaCorrente : ContaBancaria
+    class Gerente : Funcionario
     {
-        public double taxa = 10;
-        public double CobrarTaxa()
+        public void Bonificar()
         {
-            return taxa;
+            Console.WriteLine(_salario = _salario * 1.15);
         }
-
-
     }
 }

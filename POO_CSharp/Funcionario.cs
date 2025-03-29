@@ -16,9 +16,9 @@ namespace POO_CSharp
         {
             _salario = valor;
         }
-        public void GetSalario()
+        public double GetSalario()
         {
-            Console.WriteLine(_salario); 
+           return _salario; 
         }
     }
 }

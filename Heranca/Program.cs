@@ -5,8 +5,9 @@
 //CarroCombustao - Combustivel
 
 using System.Globalization;
-using Heranca;
-using POO_CSharp;
+using Heranca.Carros;
+using Heranca.Contas;
+using Heranca.Funcionarios;
 
 CarroEletrico carroE = new CarroEletrico();
 
@@ -26,10 +27,15 @@ string opcao = Console.ReadLine();
 if (opcao == "E")
 {
     meuCarro = new CarroEletrico();
+    if(meuCarro is CarroEletrico ce)
+    {
+        ce.bateria = 200;
+    }
 }
 else
 {
     meuCarro = new CarroEletrico();
+
 }
 
 //Pesso que tem nome
@@ -43,16 +49,37 @@ PessoaJuridica pj = new PessoaJuridica();
 pj.nome = "joao";
 pj.cnpj = "12345678756422";
 
-
-
 ContaCorrente mov = new ContaCorrente();
 Console.Write("Informe o deposito: ");
 double dep = double.Parse(Console.ReadLine());
-mov.Depositar(dep - mov.CobrarTaxa());
+mov.Depositar(dep);
 Console.Write("Informe o valor de saque: ");
 double sac = double.Parse(Console.ReadLine());
 mov.Sacar(sac);
-Console.WriteLine($"O saldo e: {mov.VerSaldo()} e a taxa foi de {mov.CobrarTaxa()}");
+mov.CobrarTaxa();
+
+ContaPoupanca poupanca = new ContaPoupanca();
+poupanca.Depositar(100);
+poupanca.RenderJuros();
+
+Gerente gerente = new Gerente();
+gerente.SetSalario(8000);
+gerente.Bonificar();
 
 
+Carro carro1 = new Carro();
+CarroEletrico carroEletrico = new CarroEletrico();
 
+carro1.modelo = "Fusca";
+carro1.marca = "Volkswagem";
+carro1.quilometragem = 3000;
+
+carroEletrico.modelo = "Fusca";
+carroEletrico.marca = "Volkswagem";
+carroEletrico.quilometragem = 3000;
+carroEletrico.bateria = 120;
+carroEletrico.tempoDeCarga = 2;
+
+carro1.MostrarInformacoes();
+
+carroEletrico.MostrarInformacoes();

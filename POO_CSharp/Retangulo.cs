@@ -20,19 +20,19 @@ namespace POO_CSharp
         {
             _altura = valor;
         }
-        public void GetLargura()
+        public double GetLargura()
         {
-            Console.WriteLine(_largura);
+            return _largura;
         }
-        public void GetAltura()
+        public double GetAltura()
         {
-            Console.WriteLine(_altura);
+            return _altura;
         }
 
-        public void CalcularArea()
+        public double CalcularArea()
         {
            double calc = _largura * _altura;
-            Console.WriteLine(calc);
+            return calc;
         }
     }
 }

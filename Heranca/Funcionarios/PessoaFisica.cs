@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace Heranca.Funcionarios
 {
-    class CarroEletrico : Carro
+    class PessoaFisica : Pessoa
     {
-        public int bateria;
-        public int tempoDeCarga;
+        public string cpf;
     }
 }
