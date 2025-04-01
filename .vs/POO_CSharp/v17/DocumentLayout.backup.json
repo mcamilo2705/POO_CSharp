@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48849E-52E3-4CA4-B072-CCF0CC221D6A}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\heranca\\carros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\heranca\\funcionarios\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|solutionrelative:heranca\\funcionarios\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7AA51A-8DB9-4DEF-9317-1CB7EB1ECD50}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32DD20D5-E143-4044-B38A-0DE063F53468}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\fic\\source\\repos\\poo_csharp\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Gerente.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Funcionarios\\Gerente.cs",
-              "RelativeDocumentMoniker": "Heranca\\Funcionarios\\Gerente.cs",
-              "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Funcionarios\\Gerente.cs",
-              "RelativeToolTip": "Heranca\\Funcionarios\\Gerente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CarroManual.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\CarroManual.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroManual.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\CarroManual.cs",
+              "RelativeToolTip": "Abstracao\\CarroManual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:34:34.373Z",
+              "WhenOpened": "2025-04-01T22:31:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarroAutomatico.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\CarroAutomatico.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroAutomatico.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\CarroAutomatico.cs",
+              "RelativeToolTip": "Abstracao\\CarroAutomatico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:24:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarro.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\ICarro.cs",
+              "RelativeDocumentMoniker": "Abstracao\\ICarro.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\ICarro.cs",
+              "RelativeToolTip": "Abstracao\\ICarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:22:24.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Abstracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:12:18.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
@@ -59,38 +110,36 @@
               "RelativeToolTip": "Heranca\\Program.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:30:46.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T00:30:46.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CarroEletrico.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Carros\\CarroEletrico.cs",
               "RelativeDocumentMoniker": "Heranca\\Carros\\CarroEletrico.cs",
               "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Carros\\CarroEletrico.cs",
               "RelativeToolTip": "Heranca\\Carros\\CarroEletrico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:23:06.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T00:23:06.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Carros\\Carro.cs",
               "RelativeDocumentMoniker": "Heranca\\Carros\\Carro.cs",
               "ToolTip": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Carros\\Carro.cs",
               "RelativeToolTip": "Heranca\\Carros\\Carro.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T00:14:59.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Polimorfismo\\Program.cs",
               "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
@@ -98,12 +147,11 @@
               "RelativeToolTip": "Polimorfismo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:05:09.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T00:05:09.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\POO_CSharp\\Heranca\\Funcionarios\\Funcionario.cs",
               "RelativeDocumentMoniker": "Heranca\\Funcionarios\\Funcionario.cs",
@@ -111,8 +159,7 @@
               "RelativeToolTip": "Heranca\\Funcionarios\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:19:06.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T23:19:06.043Z"
             }
           ]
         }
